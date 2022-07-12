@@ -1,0 +1,14 @@
+import java.util.*;
+import java.io.*;
+  
+
+public class tl_1 {
+public static void main(String args[]){
+Scanner sc=new Scanner(System.in);		
+char c='A';
+int b=c;
+System.out.println(b);
+System.out.println(int(c));
+}
+}
+	
